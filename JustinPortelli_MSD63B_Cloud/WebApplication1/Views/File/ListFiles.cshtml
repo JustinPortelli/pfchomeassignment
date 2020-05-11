@@ -1,0 +1,43 @@
+﻿@model IEnumerable<WebApplication1.Models.FileUpload>
+@{
+    ViewBag.Title = "ListFiles";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ListFiles</h2>
+
+@if (ViewBag.Message != null)
+{
+    <label>@ViewBag.Message</label>
+}
+@if (!User.Identity.IsAuthenticated)
+{
+    <p>Please log in to view the files</p>
+}
+
+else if (!Model.Any())
+{
+    <p>There is nothing uploaded yet</p>
+}
+else
+{
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>File Name</th>
+                <th>File URL</th>
+                <th>Receiver Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var file in Model)
+            {
+                <tr>
+                    <td>@file.fileName</td>
+                    <td><a href="@file.fileUrl">@file.fileUrl</a></td>
+                    <td>@file.receiverEmail</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

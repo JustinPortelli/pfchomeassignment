@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pftc2020seangoodlip",
+  "private_key_id": "807e2d86fd0f8a02e092f234eab2984a8d68a0c0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCMvv0C/sG5tcuz\nKYPHAobr7WW2WCYI70aBcu559nUR5RWHYOVLQece7EjzM4HVGt4E8+vwACKZkE3q\nSdQkDoUX2YYVBVAX79BKZ6WsA2IOrY2VHs74mJ+YSEWuDlf5ajuzcYSR9rDdpCVG\njaEMuugLSph8Xis1mX7YEJ/GxqNGbbbvfW7W1urAWN6iJA0ImF4sii0CUDiiY9Hz\nGKhh0IlSGnq963br+mGaeJFHE7b5MrenxpEAxNZeSk0P2ogQrMFbCQK+GSpfRbXH\n6Omqpmh8K/f9yrwWcvlj/iXYf1WwKLd9xw+CcfOI2odPs1+NouqgqnuunVZ4Wmot\nURRxfNqJAgMBAAECggEADZVdK83UeozeFPN7wVgwF1L5Dwkg2pnlLxcdhu3PTKPU\nWRVz67h3itd5Due4rw2Bwe6cpbQNos53hpYLgFNaavvWYe76VOUTMCsipSBKdWow\nkOTBSuLH/FV1TCAcQ3kKO/5HsiKh3TI7WrzOf0EGphhT8STRfMHMqSOpl/CRz3kg\nmvr48WBkDKQNVvELvFLk1e0ySFqLaoYulKf8vB2peP+7p51WRzEr/lnW2+EzpCYP\nK59XCJfge58mASEDINNGHg7n6mv6ODayGFO/E0oCaaytalLEBZLs8qWsOg8ZTaAS\nXMY2hRdzBo8IsGODUZqDmv/rf0zD0PZAU1AfZ7sFEQKBgQDAmWZ52/kV9kO8naSr\nCxuY3ovDpKnm4NPUVnirtYeoO0NRJ/9G1jiVCRhjmYXyU0CwlpNcRPoDGKxNtbHC\nk55pyPmYVaNwvyF+AZ2RqKPVNfhnPQ6/lC2KsAMNIznmBPtOVdJWXSikaIfurZbi\n3K9M9Kh2rIw0rktbtPiYPJ5wdQKBgQC7E9mulLyA7OLnscCj8sbVDnKlNH6K3NFk\nlcMFnRc74wZo9E8cg7UfhOA7C7wrzZT22ZFSmzbOwlVceOtH0oWAMXzRmrFbt6kV\nIK4LWRt6o16gYDx6c4AO/6SG7jSVkFPm/zcrjd+Lg3t3GnlEGnmT0NvVCYDq1hOz\nDmf/jTT/RQKBgQCaGGIAL7qcErvhZjPA0hNTfQNQFigF3G4/XqwPnh8av8e9YAYD\n1BPTUkKcNdIQrwF8CA2A7oMmBRCe4DeIWXmOY8knU6V/6LxQR9SdHNNwHE1RtG1f\nZJwHcYoPcda6LdQvucSfasvAtw3DLkoh2rW7GajLwoQvBiCvEB0yGJYfnQKBgAOV\n1c4qu5Ic+BxIo9CAjp72r+vKncI7iSfMVvh8kj1rlGvegsWhII+CFGoNR4XvYrN4\nZ/iVUO+Ved1T0+6EclqKmEHMHSoM0wi8n5lIE+a9ysp4DbCrFgEzlQug9REIuxLq\nQTxsc6RQ2MTnlPthJoNWtV/X1sipYadE12lmY2WhAoGAbQFwHRQ5Z+T0Srdfjtz2\nr0eoVd6MJXRKMtueyMN3ORik/I94vlsceTRIH4a7ZY94ToAZO3z8/oQQB20w97ne\nkuFj55B5tcleeHtnQwVtQX0+zD8WZ54IjPE7E56Pc16/ChS7fdGsC8heudmTqjG4\nl0u+2RGqkWq9cEJ4e8JXFmE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pftcassignmentsg-356@pftc2020seangoodlip.iam.gserviceaccount.com",
+  "client_id": "117444063755265120922",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pftcassignmentsg-356%40pftc2020seangoodlip.iam.gserviceaccount.com"
+}
